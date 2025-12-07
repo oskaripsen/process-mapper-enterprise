@@ -273,7 +273,7 @@ See `backend/app.py` for complete API documentation.
 
 ## License
 
-Enterprise Edition - Internal Use
+MIT
 
 ## Support
 
